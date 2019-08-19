@@ -33,7 +33,7 @@ ItemFilters 1 (https://www.curseforge.com/minecraft/mc-mods/item-filters)
 Techguns 1 (https://www.curseforge.com/minecraft/mc-mods/techguns)
 NoTreePunching1(https://www.curseforge.com/minecraft/mc-mods/no-tree-punching)
 AlcatrazCore 1 (https://www.curseforge.com/minecraft/mc-mods/alcatrazcore)
-Patchouli (https://www.curseforge.com/minecraft/mc-mods/patchouli)o
+Patchouli 1 (https://www.curseforge.com/minecraft/mc-mods/patchouli)o
 Engineer's Workshop (https://www.curseforge.com/minecraft/mc-mods/engineers-workshop)
 CoFH Core (https://www.curseforge.com/minecraft/mc-mods/cofh-core)
 Redstone Flux (https://www.curseforge.com/minecraft/mc-mods/redstone-flux)
