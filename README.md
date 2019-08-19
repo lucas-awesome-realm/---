@@ -1,5 +1,12 @@
 # Post Apocalyptic Modpack and Server
-Shit for the post apocalyptic modpack.
-Please do not grief and put description behind all commits.
+Post-apocoliptic Modpack
 
-DOWNLOAD TUTORIAL will be provided later on.
+Mod List
+-----
+Required for Copyright Reasons
+1. Mod by Author (link)
+
+
+
+'Please add description to commits'
+'DOWNLOAD TUTORIAL will be provided later on.'
