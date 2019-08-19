@@ -42,5 +42,4 @@ Thermal Foundation (https://www.curseforge.com/minecraft/mc-mods/thermal-foundat
 CoFH World (https://www.curseforge.com/minecraft/mc-mods/cofh-world)
 Thermal Expansion (https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
 CoFH Lib (https://www.curseforge.com/minecraft/mc-mods/cofh-lib)
-codechickenlib (https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 Bibliotheca (https://www.curseforge.com/minecraft/mc-mods/bibliotheca)
