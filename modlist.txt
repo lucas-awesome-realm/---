@@ -1,4 +1,4 @@
-
+Main Mods:
 1.	BetterFPS by Guichaguri (https://www.curseforge.com/minecraft/mc-mods/betterfps)
 2.	Chisel by tterrag1098 (https://www.curseforge.com/minecraft/mc-mods/chisel)
 3.	Chisels and Bits by AlgorithmX2 (https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
@@ -45,18 +45,18 @@
 44.	Tough As Nails 1 (https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 45.	UniDict 1 (https://www.curseforge.com/minecraft/mc-mods/unidict)
 46.	Weather, Storms & Tornadoes 1(https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
-47.	AgriCraft
-48.	Chest Transporter
+47.	AgriCraft (https://www.curseforge.com/minecraft/mc-mods/agricraft)
+48.	Chest Transporter (https://www.curseforge.com/minecraft/mc-mods/chest-transporter)
 49.	Chickens/Hatchery (Tentative)
 50.	Moo Fluids (Tentative)
-51.	Default Options
-52.	JustEnoughResources
-53.	Solar Flux Reborn
+51.	Default Options (https://www.curseforge.com/minecraft/mc-mods/default-options)
+52.	JustEnoughResources (https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+53.	Solar Flux Reborn (https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)
 54.	ReAuth (OPT)
 55.	InvTweaks (OPT)
 56.	Hwyla (OPT)
-57.	Dynamic Stealth
-58.	In Control!
+57.	Dynamic Stealth (https://www.curseforge.com/minecraft/mc-mods/dynamic-stealth)
+58.	In Control! (https://www.curseforge.com/minecraft/mc-mods/in-control)
 
 
 Coremods:
