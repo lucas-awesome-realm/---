@@ -77,4 +77,4 @@ Coremods:
 13.	Bibliotheca (https://www.curseforge.com/minecraft/mc-mods/bibliotheca)
 14.	Chameleon 1(https://www.curseforge.com/minecraft/mc-mods/chameleon)
 15.	Coroutil 1(https://www.curseforge.com/minecraft/mc-mods/coroutil)
-16.	
+16.	Fantastic Lib (https://www.curseforge.com/minecraft/mc-mods/fantastic-lib)
