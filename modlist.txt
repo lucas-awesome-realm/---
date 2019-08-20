@@ -59,3 +59,6 @@ Industrial Craft 2 (https://www.curseforge.com/minecraft/mc-mods/industrial-craf
 CustomNPCs (https://www.curseforge.com/minecraft/mc-mods/custom-npcs)
 EnderTweaker (https://www.curseforge.com/minecraft/mc-mods/endertweaker)
 Just Enough Items (https://www.curseforge.com/minecraft/mc-mods/jei)
+Move Plus (https://www.curseforge.com/minecraft/mc-mods/move-plus)
+CoroUtil (https://www.curseforge.com/minecraft/mc-mods/coroutil/files)
+Corpse (https://www.curseforge.com/minecraft/mc-mods/corpse)
