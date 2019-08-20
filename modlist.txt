@@ -57,6 +57,7 @@ Main Mods:
 56.	Hwyla (OPT)
 57.	Dynamic Stealth (https://www.curseforge.com/minecraft/mc-mods/dynamic-stealth)
 58.	In Control! (https://www.curseforge.com/minecraft/mc-mods/in-control)
+59. Avarita Recipie Generator (https://www.curseforge.com/minecraft/mc-mods/avaritia-recipe-generator)
 
 
 Coremods:
