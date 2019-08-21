@@ -58,7 +58,8 @@ Main Mods:
 57.	Hwyla (OPT)
 58.	Dynamic Stealth (https://www.curseforge.com/minecraft/mc-mods/dynamic-stealth)
 59.	In Control! (https://www.curseforge.com/minecraft/mc-mods/in-control)
-60.     Avarita Recipie Generator (https://www.curseforge.com/minecraft/mc-mods/avaritia-recipe-generator)
+60. Avarita Recipie Generator (https://www.curseforge.com/minecraft/mc-mods/avaritia-recipe-generator)
+61. FX Control! (https://www.curseforge.com/minecraft/mc-mods/fx-control)
 
 
 Coremods:
@@ -79,3 +80,6 @@ Coremods:
 14.	Chameleon 1(https://www.curseforge.com/minecraft/mc-mods/chameleon)
 15.	Coroutil 1(https://www.curseforge.com/minecraft/mc-mods/coroutil)
 16.	Fantastic Lib (https://www.curseforge.com/minecraft/mc-mods/fantastic-lib)
+17. CodeChickenLib (https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+18. U Team Core (https://www.curseforge.com/minecraft/mc-mods/u-team-core)
+19. InfinityLib (https://www.curseforge.com/minecraft/mc-mods/infinitylib)
