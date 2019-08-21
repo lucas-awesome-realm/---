@@ -15,6 +15,17 @@
       "toughasnails:wool_leggings",
       "toughasnails:wool_boots"
     ],
-    "modifier": 1
-  }
+    "modifier": 1.5
+  },
+  {
+    "names": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+      ],
+    "modifier": 0.7
+  },
+
+  
 ]
