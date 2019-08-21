@@ -1,0 +1,7 @@
+[
+  {
+    "mob": "minecraft:zombie",
+    "result": "default",
+    "healthmultiply": 1.5,
+  }
+]

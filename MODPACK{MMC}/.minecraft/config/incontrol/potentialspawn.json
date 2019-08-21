@@ -1,0 +1,9 @@
+[
+  {
+    "mob": ["minecraft:skeleton", "minecraft:zombie"],
+    "seesky": true,
+    "result": "allow",
+    "minlight": 1,
+    "maxlight": 15,
+  }
+]
