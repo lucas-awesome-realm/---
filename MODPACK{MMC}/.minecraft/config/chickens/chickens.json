@@ -185,12 +185,12 @@
     "lay_item": "minecraft:quartz",
     "drop_item": "minecraft:quartz",
     "spawn_type": "HELL",
-    "parent_1": "",
-    "parent_2": ""
+    "parent_1": "chickens:flint",
+    "parent_2": "chickens:whitechicken"
   },
   "chickens:logchicken": {
     "name": "LogChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:log",
     "drop_item": "minecraft:log",
@@ -224,7 +224,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:glowstone_dust",
     "drop_item": "minecraft:glowstone_dust",
-    "spawn_type": "NORMAL",
+    "spawn_type": "HELL",
     "parent_1": "chickens:quartzchicken",
     "parent_2": "chickens:yellowchicken"
   },
@@ -244,9 +244,9 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:redstone",
     "drop_item": "minecraft:redstone",
-    "spawn_type": "NORMAL",
+    "spawn_type": "HELL",
     "parent_1": "chickens:redchicken",
-    "parent_2": "chickens:sandchicken"
+    "parent_2": "chickens:gunpowderchicken"
   },
   "chickens:glasschicken": {
     "name": "GlassChicken",
@@ -255,12 +255,12 @@
     "lay_item": "minecraft:glass",
     "drop_item": "minecraft:glass",
     "spawn_type": "NORMAL",
-    "parent_1": "chickens:quartzchicken",
-    "parent_2": "chickens:redstonechicken"
+    "parent_1": "chickens:sandchicken",
+    "parent_2": "chickens:gunpowderchicken"
   },
   "chickens:ironchicken": {
     "name": "IronChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:iron_ingot",
     "drop_item": "minecraft:iron_ingot",
