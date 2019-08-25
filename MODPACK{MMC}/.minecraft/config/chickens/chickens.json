@@ -312,8 +312,8 @@
     "name": "WaterChicken",
     "is_enabled": true,
     "lay_coefficient": 0.1,
-    "lay_item": "chickens:liquid_egg",
-    "drop_item": "chickens:liquid_egg",
+    "lay_item": "minecraft:dirt",
+    "drop_item": "minecraft:dirt",
     "spawn_type": "NONE",
     "parent_1": "chickens:gunpowderchicken",
     "parent_2": "chickens:snowballchicken"
@@ -322,8 +322,8 @@
     "name": "LavaChicken",
     "is_enabled": true,
     "lay_coefficient": 0.1,
-    "lay_item": "chickens:liquid_egg:1",
-    "drop_item": "chickens:liquid_egg:1",
+    "lay_item": "minecraft:dirt",
+    "drop_item": "minecraft:dirt",
     "spawn_type": "HELL",
     "parent_1": "chickens:coalchicken",
     "parent_2": "chickens:quartzchicken"
